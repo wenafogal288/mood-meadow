@@ -1,0 +1,8 @@
+{"type":"call","ts":1790606418,"task":"approve-pipeline","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1790609140,"task":"heal-build","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1790750689,"task":"approve-pipeline","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1790751635,"task":"approve-pipeline","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1790752458,"task":"heal-build","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1790753476,"task":"diagnose","model":"haiku","model_id":"claude-haiku-4-5"}
+{"type":"call","ts":1790753540,"task":"diagnose","model":"haiku","model_id":"claude-haiku-4-5"}
+{"type":"call","ts":1790757961,"task":"approve-pipeline","model":"opus","model_id":"claude-opus-5"}

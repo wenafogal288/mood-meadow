@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Branded native launch window: shown before the RN bridge paints the
+     LoaderScreen. Without it the first captured frame is pure black and the
+     UI test records it as a launch crash. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/splashBackground" />
+    <item
+        android:gravity="center"
+        android:width="256dp"
+        android:height="256dp">
+        <bitmap
+            android:gravity="center"
+            android:src="@mipmap/ic_launcher" />
+    </item>
+</layer-list>

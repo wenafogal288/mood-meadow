@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D sage-green leaf with a honey-gold dew drop highlight, centered, soft cream to pale green radial gradient background, crisp studio lighting, no text, no scene, no other objects"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app loader background, very dark forest green botanical backdrop, deep shadowed fern silhouettes, soft golden bokeh haze, cinematic vignette, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app menu background, light cream paper texture with very soft pale sage leaf silhouettes and pressed herbarium botanicals, airy editorial, bright, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app background, soft blurred pale cream and sage green botanical blur, very low contrast for UI overlay, gentle light wash, no text, no UI elements"
+    },
+    {
+      "name": "sprite_leaf_mark",
+      "type": "sprite",
+      "prompt": "One single glossy sage green leaf emblem, centered icon, smooth 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_meadow_hero",
+      "type": "sprite",
+      "prompt": "One single small bouquet of dried meadow grass stems tied with twine, centered icon, soft 3D render in sage and honey tones, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_mood_radiant",
+      "type": "sprite",
+      "prompt": "One single cute cartoon golden sun, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_mood_calm",
+      "type": "sprite",
+      "prompt": "One single cute cartoon green leaf, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_mood_steady",
+      "type": "sprite",
+      "prompt": "One single cute cartoon smooth grey river pebble, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_mood_low",
+      "type": "sprite",
+      "prompt": "One single cute cartoon blue water droplet, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_mood_storm",
+      "type": "sprite",
+      "prompt": "One single cute cartoon grey storm cloud, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    }
+  ]
+}
